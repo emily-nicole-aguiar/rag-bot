@@ -1,6 +1,6 @@
 # Pipeline RAG para Consulta em Banco de Dados SQL Server
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Made with ❤️ by Emily](https://img.shields.io/badge/Made%20with-❤️-red)](https://github.com/emily-nicole)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/) [![Made with ❤️ by Emily](https://img.shields.io/badge/Made%20with-❤️-red)](https://github.com/emily-nicole)
 
 ## 📖 Introdução
 
