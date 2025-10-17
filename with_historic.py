@@ -239,7 +239,7 @@ def rag_pipeline(user_question):
 # Exemplo de uso
 if __name__ == "__main__":
     # Descomente para popular (rode uma vez)
-    populate_chroma_and_tfidf()
+    # populate_chroma_and_tfidf()
     
     question = "Qual o país que está com mais entrega em análise"
     answer = rag_pipeline(question)
@@ -247,6 +247,6 @@ if __name__ == "__main__":
     
     # Para testar histórico: Rode múltiplas vezes ou adicione um loop
     # Exemplo de loop para teste:
-    # for i in range(3):
-    #     test_q = f"Pergunta teste {i}: Quantos modelos na França?"
-    #     print(rag_pipeline(test_q))
+    for i in range(3):
+        test_q = f"Pergunta teste {i}: Quantos modelos na França?"
+        print(rag_pipeline(test_q))
